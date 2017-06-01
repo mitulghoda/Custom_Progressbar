@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Custom_indeterminate_progressbar</string>
+    <string name="hello">Hello World, Custom_indeterminate_progressbarActivity!</string>
+</resources>
